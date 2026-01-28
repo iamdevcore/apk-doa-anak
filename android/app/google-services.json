@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986931972089",
+    "project_id": "doa-anak-86e60",
+    "storage_bucket": "doa-anak-86e60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986931972089:android:a9f938e9fd6b6b5ec5df28",
+        "android_client_info": {
+          "package_name": "com.example.doa_anak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfABCYaraSMem9O1ks26NoF4lPCkzN_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

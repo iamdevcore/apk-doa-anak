@@ -1,0 +1,39 @@
+name: doa_anak
+description: Aplikasi Doa Anak-Anak berbasis Flutter dan Firebase
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^2.25.4
+  cloud_firestore: ^4.15.4
+
+  # Audio MP3 Anak
+  audioplayers: ^5.2.1
+
+  # Reminder / Notifikasi
+  flutter_local_notifications: ^17.2.2
+  timezone: ^0.9.3
+
+  # Reward / Bintang Anak ⭐
+  shared_preferences: ^2.2.3
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/audio/
